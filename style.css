@@ -16,3 +16,15 @@ h1 {
     margin: 0px auto;
     align: center;
 }
+label {
+    width: 100px;
+    display: inline-block;
+}
+#result {
+    display: inline-block;
+    vertical-align: top;
+    width: 193px;
+}
+.field-wrap {
+    margin-bottom: 10px;
+}
